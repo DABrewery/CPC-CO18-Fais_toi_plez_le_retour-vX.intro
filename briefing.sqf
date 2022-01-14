@@ -7,6 +7,8 @@ player createDiaryRecord ["Diary", ["Crédits", "
 
 Auteur : tanin69<br/><br/>
 
+Dépôt github : https://github.com/DABrewery/CPC-CO18-Fais_toi_plez_le_retour-vX.intro
+
 "]];
 
 
@@ -70,10 +72,9 @@ Mer de Chine méridionale, juin 2020. Le conflit entre la République Populaire 
 
 La RPC est en cours de construction et d'installation d'une nouvelle base sur un atoll des Iles Spratley qui était encore inocuppé jusqu'à présent. Les images satellites montrent notamment un début de construction d'une piste qui serait susceptible, si sa construction était achevée, d'acccueillir des moyens aériens lourds ainsi des chasseurs.<br /><br />
 
-En dépit des risques d'escalade, les USA décident d'intervenir directement pour mettre fin à l'expansion chinoise.
+En dépit des risques d'escalade, les USA décident d'intervenir directement pour mettre fin à l'expansion chinoise.<br /><br />
 
-Faction joueurs : nageurs de combats avec équipement US commando.
-
+Faction joueurs : nageurs de combats avec équipement US commando.<br />
 Faction ENI : RPC (République Populaire de Chine) avec armement moderne.
 
 "]];

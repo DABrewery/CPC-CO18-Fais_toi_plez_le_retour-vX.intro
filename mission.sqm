@@ -16,18 +16,18 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=166;
+		nextID=181;
 	};
 	class Camera
 	{
 		pos[]={2824.4041,25.816643,4311.1479};
-		dir[]={0.75995338,-0.48926947,0.42790306};
-		up[]={0.42633599,0.87212843,0.24005501};
-		aside[]={0.49063712,2.2887252e-007,-0.87137097};
+		dir[]={0.7599479,-0.48926589,0.42789987};
+		up[]={0.42632928,0.87213463,0.240051};
+		aside[]={0.49063507,1.4901161e-008,-0.87136525};
 	};
 };
 binarizationWanted=0;
-sourceName="CPC-CONN-Fais_toi_plez_le_retour";
+sourceName="CPC-CO[18]-Fais_toi_plez_le_retour-vX";
 addons[]=
 {
 	"A3_Structures_F_Civ_Garbage",
@@ -637,7 +637,7 @@ class ScenarioData
 };
 class CustomAttributes
 {
-	class Category1
+	class Category0
 	{
 		name="Scenario";
 		class Attribute0
@@ -19207,7 +19207,7 @@ class Mission
 					};
 					id=2272;
 					type="O_T_Soldier_F";
-					atlOffset=37.303879;
+					atlOffset=2.0950003;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -19334,7 +19334,7 @@ class Mission
 					};
 					id=2273;
 					type="O_T_Soldier_F";
-					atlOffset=37.303879;
+					atlOffset=2.0953028;
 				};
 				class Item2
 				{
@@ -19418,7 +19418,7 @@ class Mission
 					};
 					id=2274;
 					type="O_T_Soldier_F";
-					atlOffset=37.303879;
+					atlOffset=2.0953028;
 				};
 				class Item3
 				{
